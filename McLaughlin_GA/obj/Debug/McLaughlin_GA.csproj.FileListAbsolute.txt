@@ -1,0 +1,7 @@
+C:\Users\mclse\OneDrive\Desktop\McLaughlin_GA\McLaughlin_GA\bin\Debug\McLaughlin_GA.exe.config
+C:\Users\mclse\OneDrive\Desktop\McLaughlin_GA\McLaughlin_GA\bin\Debug\McLaughlin_GA.exe
+C:\Users\mclse\OneDrive\Desktop\McLaughlin_GA\McLaughlin_GA\bin\Debug\McLaughlin_GA.pdb
+C:\Users\mclse\OneDrive\Desktop\McLaughlin_GA\McLaughlin_GA\obj\Debug\McLaughlin_GA.csproj.CoreCompileInputs.cache
+C:\Users\mclse\OneDrive\Desktop\McLaughlin_GA\McLaughlin_GA\obj\Debug\McLaughlin_GA.exe
+C:\Users\mclse\OneDrive\Desktop\McLaughlin_GA\McLaughlin_GA\obj\Debug\McLaughlin_GA.pdb
+C:\Users\mclse\OneDrive\Desktop\McLaughlin_GA\McLaughlin_GA\obj\Debug\McLaughlin_GA.csprojAssemblyReference.cache
